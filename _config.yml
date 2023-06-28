@@ -31,7 +31,7 @@ contact: >
 # Pages shown in navbar
 nav_pages:
   - name: about
-#  - name: publications
+  - name: publications
 #  - name: talks
 #  - name: research
 #  - name: software
@@ -73,7 +73,7 @@ scholar:
   locale: en
 
   source: /assets/
-  bibliography: ref.bib
+  bibliography: "*.bib"
   bibliography_template: bibtemplate
   sort_by: year, month
   order: descending

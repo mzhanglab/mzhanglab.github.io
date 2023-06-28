@@ -16,17 +16,19 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 }
 </style>
 
+*equal contribution, #corresponding author, [full list](https://scholar.google.com/citations?user=zjr6n-QAAAAJ&hl=en)
+
 <div class="jumbotron">
 ### Preprints
-{% bibliography --query @unpublished %}
+{% bibliography --file ref_preprint %}
 </div>
 
 <div class="jumbotron">
-### Refereed journal articles
-{% bibliography --query @article %}
+### Published papers (as main author)
+{% bibliography --file ref_main %}
 </div>
 
 <div class="jumbotron">
-### Refereed conference proceedings
-{% bibliography --query @inproceedings %}
+### Selected published papers (as contributing author)
+{% bibliography --file ref_other %}
 </div>
