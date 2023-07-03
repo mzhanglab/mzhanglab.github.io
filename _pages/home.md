@@ -5,7 +5,22 @@ sitemap: false
 permalink: /
 ---
 
-### Welcome! (Site under construction)
+### Genetics and Machine Learning 
+
+We design statistically principled methods, develop user-friendly software, and study the genetic basis of human diseases. 
+We currently focus on integrative analysis of genetics and functional genomics data.
+Topics of interest include:
+
+- Identifying disease-critical cellular contexts through integrating GWAS and functional genomics. 
+
+- Understanding the genetic architecture of human diseases and the underlying evolutionary driving forces through analyzing biobank-scale genetics data.
+
+- Understanding the causal relationship between genes and disease through analyzing GWAS, eQTL, and perturbation data. 
+
+We also develop general statistical and machine learning algorithms motivated by applications in genetics; topics include multiple hypotheses testing, multi-armed bandits, dimensionality reduction, empirical Bayes, and causal inference. 
+
+
+
 
 <!---
 Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
@@ -27,10 +42,6 @@ Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
 </div>
 <br/>
 -->
-
-### About me
-
-Hello! I am Martin, a research associate at Harvard School of Public Health working with Prof. Alkes Price on statistical genetics. I will join the Computational Biology Department at CMU as an assistant professor in the fall 2023.
 
 <!---
 I am a physicist working in the field of quantum mechanics and quantum electrodynamics.

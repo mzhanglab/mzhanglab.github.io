@@ -1,0 +1,63 @@
+I"=<style>
+img{
+  border-radius: 10px;
+}
+.col-md-3 {
+  margin-top:10px;
+  margin-bottom:10px;
+  padding:0px;
+  display:block;
+  overflow:hidden;
+  text-align:center;
+  display: table-cell;
+  background: white;
+  border-radius: 20px;
+  height: auto;
+}
+iframe {
+  margin:0;
+  padding:0;
+  width: 175px;
+  display: inline;
+  vertical-align: middle;
+}
+</style>
+
+<h2 id="openings">Openings</h2>
+
+<div class="jumbotron">
+  <div class="col-md-12 col-sm-12">
+    <h4>PhD students</h4>
+
+    <p>The Zhang Lab is seeking two highly-motivated PhD students.</p>
+
+    <p>The students will work with Dr. Zhang on problems in statistical genetics and machine learning, involving algorithm design (occasionally proving theorems), software implementation, and studying problems in statistical and/or evolutionary genetics. 
+The students will have the flexibility to choose their projects or propose new projects, broadly aligning with <a href="http://localhost:4000/research">lab research directions</a>. 
+Dr. Zhang will provide hands-on guidance in conducting research and writing papers, as well as ample opportunities for collaboration (within and outside CMU) and presenting research works.</p>
+
+    <h2 id="qualifications">###Qualifications:</h2>
+    <ul>
+      <li>Qualifications: strong skills in algorithm design, mathematical modeling, and programming (e.g., Python or R); background in computer science, electrical engineering, bioinformatics, or other quantitative fields.</li>
+      <li>Preferred but not required: Experience in analyzing genetics and genomics data, such as GWAS and scRNA-seq</li>
+    </ul>
+
+  </div>
+</div>
+
+<div class="jumbotron">
+  <div class="col-md-12 col-sm-12">
+    <h4>Rotation students</h4>
+
+    <p>The Zhang Lab is looking to recruit several rotation students at different levels: master, undergraduate,  highly-motivated PhD students. 
+The students are expected to work with Dr. Zhang on problems in statistical genetics and machine learning involving algorithm design (occasionally proving theorems), software implementation, and studying problems in statistical and/or evolutionary genetics. 
+The students will have the flexibility to choose their projects or propose new projects, broadly aligning with <a href="http://localhost:4000/research">lab research directions</a>. 
+Dr. Zhang will provide hands-on guidance in conducting research and writing papers, as well as ample opportunities for collaboration (within and outside CMU) and presenting research works.</p>
+
+    <ul>
+      <li>Qualifications: strong skills in algorithm design, mathematical modeling, and programming (e.g., Python or R); background in computer science, electrical engineering, bioinformatics, or other quantitative fields.</li>
+      <li>Preferred but not required: Experience in analyzing genetics and genomics data, such as GWAS and scRNA-seq</li>
+    </ul>
+
+  </div>
+</div>
+:ET

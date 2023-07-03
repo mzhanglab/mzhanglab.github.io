@@ -27,8 +27,9 @@ pre{
 <!-- You can use the below to make your name bold -->
 <!-- {{reference | replace_first: 'Bryngelson, S. H.', '<b>Bryngelson, S. H.</b>' | replace_first: 'Bryngelson, S.', '<b>Bryngelson, S.</b>' }}</div> -->
 
-<div class="text-justify">{{reference | replace_first: 'Zhang, M. J.', '<b>Zhang, M. J.</b>'| replace_first: 'Zhang, M.,', '<b>Zhang, M. J.</b>,'}} </div>
+<div class="text-justify">{{reference | replace_first: 'Zhang, M. J.', '<b>Zhang, M. J.</b>'| replace_first: 'Zhang, M.,', '<b>Zhang, M. J.</b>,' | replace_first: 'Zhang, J.', '<b>Zhang, M. J.</b>'}} </div>
 
+<!--
 {% assign bibtest = false %}
 {% if entry.file %}
 {% assign bibfile = "/papers/" | append: entry.file %}
@@ -72,6 +73,7 @@ pre{
 <div id="b{{entry.key}}" style="display: none; background-color:white; border-radius:5px; padding:10px; margin-bottom:20px;">
 <pre>{{entry.abstract}}</pre>
 </div>
+-->
 
 <script>
 function toggleBibtex{{entry.key}}(parameter) {

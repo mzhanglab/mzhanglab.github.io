@@ -19,6 +19,7 @@ permalink: /about/
   {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-3x"></i></a> {% endif %}
   {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-3x"></i></a> {% endif %}
   {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-3x"></i></a> {% endif %}
+  {% if member.twitter %} <a href="{{ member.twitter }}" target="_blank"><i class="fa fa-twitter-square fa-3x"></i></a> {% endif %}
   {% if member.cv %} <a href="{{ site.url }}{{ site.baseurl }}/{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-3x"></i></a> {% endif %}
   {% if member.researchgate %} <a href="{{ member.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-3x"></i></a> {% endif %}
 
@@ -62,6 +63,13 @@ permalink: /about/
 </div>
 {% endfor %}
 
+
+Dr. Martin Zhang is an assistant professor of [Computational Biology](https://cbd.cmu.edu/) in the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). 
+Before starting his lab at CMU, he worked with Dr. Alkes Price on statistical genetics at Harvard School of Public Health, where he developed [scDRS](https://github.com/martinjzhang/scDRS), a method that integrates GWAS and scRNA-seq to identify individual disease-associated cells. He also studied the genetic architecture of human diseases focusing on the interaction of SNP pairs driven by natural selection. 
+Prior to postdoc, he conducted graduate research with Dr. David Tse and Dr. James Zou on machine learning and computational biology at Stanford. His PhD works span a wide range of topics from theory to applications, including integrative dimensionality reduction, covariate-adaptive multiple hypothesis testing, algorithm acceleration via multi-armed bandits, single-cell RNA-seq experiment design, and analyzing single-cell RNA-seq data sets.
+In his free time, Martin enjoys tennis, hiking, and chess.
+
+
 {% if site.data.grants %}
 <div class="jumbotron">
 ### Grants
@@ -84,6 +92,7 @@ permalink: /about/
 </div>
 {% endif %}
 
+<!--
 {% if site.data.people %}
 <div class="jumbotron">
 ### Students and mentoring
@@ -94,10 +103,13 @@ permalink: /about/
 </ul>
 </div>
 {% endif %}
+-->
 
+{% if site.data.funders %}
 <div class="jumbotron">
   <h4>Sponsors</h4>
   <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
  {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
   </div>
 </div>
+{% endif %}

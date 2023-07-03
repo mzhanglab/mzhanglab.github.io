@@ -1,0 +1,41 @@
+I"<h2 id="team">Team</h2>
+
+<p><strong>We are  looking for new team members</strong> <a href="http://localhost:4000/openings">(see openings)</a> <strong>!</strong></p>
+
+<p><strong>Openings</strong>: I plan to recruit 2-3 new students.</p>
+
+<p>The Dey Lab welcomes graduate and undergraduate students interested in developing statistical and machine learning models in the interface of disease genetics and genomics, as well as their applications to state-of-the-art data.</p>
+
+<h2 id="principal-investigator">Principal Investigator</h2>
+
+<div class="jumbotron">
+  <div class="row">
+    <div class="col-sm-2">
+      <p><img src="http://localhost:4000/images/mz_face.jpeg" width="100%" style="max-width:250px" /></p>
+    </div>
+    <div class="col-sm-9 col-xs-12">
+      <h4>Dr. Martin Jinye Zhang</h4>
+      <p><i>Assistant Professor, Computational Biology, SCS, Carnegie Mellon University</i><br /></p>
+
+      <p><a href="mailto:jinyezhang@hsph.harvard.edu" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> 
+ <a href="https://scholar.google.com/citations?user=zjr6n-QAAAAJ&amp;hl=en" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> 
+ <a href="https://github.com/martinjzhang" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> 
+ <a href="https://twitter.com/martinjzhang" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a> 
+ <a href="cv/cv.pdf" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a></p>
+
+      <ul style="overflow: hidden">
+<li> (2019) Ph.D., Electrical Engineering, Stanford University </li>
+<li> (2014) B.Eng., Electrical Engineering, Tsinghua University </li>
+</ul>
+
+    </div>
+  </div>
+</div>
+
+<!--
+## Administrative Support
+
+<a href="exampleemail@gmail.com">Example staff</a> is helping us (and other groups) with administration.
+-->
+
+:ET

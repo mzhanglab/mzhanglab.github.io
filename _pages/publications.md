@@ -16,19 +16,14 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 }
 </style>
 
-*equal contribution, #corresponding author, [full list](https://scholar.google.com/citations?user=zjr6n-QAAAAJ&hl=en)
+*equal contribution, #corresponding author; [full list of Dr. Martin Zhang's publications](https://scholar.google.com/citations?user=zjr6n-QAAAAJ&hl=en)
 
+## Preprints
 <div class="jumbotron">
-### Preprints
 {% bibliography --file ref_preprint %}
 </div>
 
+## Publications
 <div class="jumbotron">
-### Published papers (as main author)
-{% bibliography --file ref_main %}
-</div>
-
-<div class="jumbotron">
-### Selected published papers (as contributing author)
-{% bibliography --file ref_other %}
+{% bibliography --file ref_pub --group_by year --group_order descending %}
 </div>

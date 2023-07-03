@@ -1,21 +1,22 @@
 - name: Dr. Martin Jinye Zhang
   photo: mz_face.jpeg
   info: Assistant Professor, Computational Biology, SCS, Carnegie Mellon University
-  email: jinyezhang@hsph.harvard.edu
+  email: martinjzhang@gmail.com
   github: https://github.com/martinjzhang
   # researchgate: https://www.researchgate.net/
   scholar: https://scholar.google.com/citations?user=zjr6n-QAAAAJ&hl=en
-  # cv: cv/cv.pdf
+  twitter: https://twitter.com/martinjzhang 
+  cv: cv/cv.pdf
   # Change the number below to the number of "educations" you have (up to 6)
-  number_educ: 3
-  education1: "(2014-2019) Ph.D., Electrical Engineering, Stanford University"
-  education2: "(2014-2017) M.S., Electrical Engineering, Stanford University"
-  education3: "(2010-2014) B.Eng., Electrical Engineering, Tsinghua University"
+  number_educ: 2
+  education1: "(2019) Ph.D., Electrical Engineering, Stanford University"
+  education2: "(2014) B.Eng., Electrical Engineering, Tsinghua University"
+  # education3: 
   # education4: 
   # education5: 
   # education6: 
   education1short: (2019) Ph.D. EE, Stanford
-  education2short: (2017) M.S. EE, Stanford
-  education3short: (2014) B.Eng. EE, Tsinghua
+  education2short: (2014) B.Eng. EE, Tsinghua
+  # education3short: 
   # education5short: 
   # education6short: 

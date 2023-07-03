@@ -1,6 +1,6 @@
 # Site settings
 title: Zhang Lab @ CMU
-email: jinyezhang@hsph.harvard.edu
+email: martinjzhang@gmail.com
 description: Dr. Martin Zhang's lab webpage
 baseurl: ""
 url: ""
@@ -25,7 +25,7 @@ location: >
   Pittsburgh, PA 15213
 
 contact: >
-    <a href="mailto:jinyezhang@hsph.harvard.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Martin via email</a> <br/>
+    <a href="mailto:martinjzhang@gmail.com" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Martin via email</a> <br/>
     <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
 
 # Pages shown in navbar
@@ -33,9 +33,10 @@ nav_pages:
   - name: about
   - name: publications
 #  - name: talks
-#  - name: research
-#  - name: software
-#  - name: team
+  - name: research
+  - name: software
+  - name: people
+  - name: openings
 #  - name: teaching
 
 include:
@@ -66,8 +67,8 @@ plugins: ['jekyll/scholar']
 
 scholar:
 
-  last_name: Doe
-  first_name: [John]
+  last_name: Zhang
+  first_name: [Martin]
 
   style: citesty
   locale: en
