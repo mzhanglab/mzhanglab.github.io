@@ -85,7 +85,7 @@ We develop general machine learning and data science algorithms motivated by app
 <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/08857467641ad82f635023d530605b4c-Abstract-Conference.html" target="_blank">Fast random forest paper</a> (Tiwari et al. 2022). 
 <a href="https://proceedings.mlr.press/v151/ginart22a.html" target="_blank">Deployment monitoring for machine learning systems paper</a> (Ginart et al. 2022). 
 <a href="https://elifesciences.org/articles/62293" target="_blank">Single-cell aging score paper</a> (Zhang et al. 2021). 
-<a href="https://proceedings.neurips.cc/paper_files/paper/2020/hash/73b817090081cef1bca77232f4532c5d-Abstract.html" target="_blank">Fast k-medoid clustering paper</a> (Zhang et al. 2021). 
+<a href="https://proceedings.neurips.cc/paper_files/paper/2020/hash/73b817090081cef1bca77232f4532c5d-Abstract.html" target="_blank">Fast k-medoid clustering paper</a> (Tiwari et al. 2020). 
 <a href="https://www.nature.com/articles/s41467-019-11247-0" target="_blank">Covariate-adaptive multiple hypothesis testing paper</a> (Zhang et al. 2019). 
 <a href="https://proceedings.mlr.press/v97/zhang19t.html" target="_blank">Adaptive Monte Carlo multiple testing paper</a> (Zhang et al. 2019). 
 <a href="https://www.nature.com/articles/s41467-018-04608-8" target="_blank">Contrastive principal component analysis paper</a> (Abid<sup>*</sup>, Zhang<sup>*</sup> et al. 2018).

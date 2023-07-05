@@ -1,0 +1,82 @@
+I"d<h2 id="team">Team</h2>
+
+<p><strong>We are  looking for several PhD students and research interns</strong> <a href="http://localhost:4000/openings">(see openings)</a> <strong>!</strong></p>
+
+<h2 id="principal-investigator">Principal Investigator</h2>
+
+<div class="jumbotron">
+  <div class="row">
+    <div class="col-sm-2">
+      <p><img src="http://localhost:4000/images/mz_face.jpeg" width="100%" style="max-width:250px" /></p>
+    </div>
+    <div class="col-sm-9 col-xs-12">
+      <h4>Dr. Martin Jinye Zhang</h4>
+      <p><i>Assistant Professor, Computational Biology, SCS, Carnegie Mellon University</i><br /></p>
+
+      <p><a href="mailto:martinjzhang@gmail.com" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> 
+ <a href="https://scholar.google.com/citations?user=zjr6n-QAAAAJ&amp;hl=en" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> 
+ <a href="https://github.com/martinjzhang" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> 
+ <a href="https://twitter.com/martinjzhang" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a> 
+ <a href="cv/cv.pdf" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a></p>
+
+      <ul style="overflow: hidden">
+<li> (2019) Ph.D., Electrical Engineering, Stanford University </li>
+<li> (2014) B.Eng., Electrical Engineering, Tsinghua University </li>
+</ul>
+
+    </div>
+  </div>
+</div>
+
+<h2 id="alumni">Alumni</h2>
+
+<div class="jumbotron">
+
+  <ul>
+    <li>
+      <p><a href="https://motiwari.com/"> Mo Tiwari </a> <code>&nbsp;</code> 2019-23, PhD at Stanford, <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/08857467641ad82f635023d530605b4c-Abstract-Conference.html" target="_blank">Fast random forest paper</a> (Tiwari et al. 2022).</p>
+    </li>
+    <li>
+      <p>Jane Doe <code>&nbsp;</code> Now at University of X</p>
+    </li>
+  </ul>
+
+</div>
+
+<h2 id="alumni-1">Alumni</h2>
+
+<div class="jumbotron">
+
+  <div class="row">
+
+    <div class="col-sm-2">
+      <p><img src="http://localhost:4000/images/" width="100%" style="max-width:250px" /></p>
+    </div>
+    <div class="col-sm-4 col-xs-12">
+      <h4>Mo Tiwari</h4>
+      <p><i> <br /> Role: 2019-23, PhD at Stanford, <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/08857467641ad82f635023d530605b4c-Abstract-Conference.html" target="_blank">Fast random forest paper</a> (Tiwari et al. 2022).</i></p>
+      <ul style="overflow: hidden">
+  </ul>
+    </div>
+
+    <div class="col-sm-2">
+      <p><img src="http://localhost:4000/images/" width="100%" style="max-width:250px" /></p>
+    </div>
+    <div class="col-sm-4 col-xs-12">
+      <h4>Jane Doe</h4>
+      <p><i> <br /> Role: Now at University of X</i></p>
+      <ul style="overflow: hidden">
+  </ul>
+    </div>
+
+  </div>
+
+</div>
+
+<!--
+## Administrative Support
+
+<a href="exampleemail@gmail.com">Example staff</a> is helping us (and other groups) with administration.
+-->
+
+:ET
