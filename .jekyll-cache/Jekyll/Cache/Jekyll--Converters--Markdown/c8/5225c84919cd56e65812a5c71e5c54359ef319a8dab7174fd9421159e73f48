@@ -1,5 +1,7 @@
-I")
+I"ã
 <h3 id="genetics-and-machine-learning">Genetics and Machine Learning</h3>
+
+<p><strong>We are looking for several PhD students and research interns</strong> <a href="http://localhost:4000/openings">(see openings)</a> <strong>!</strong></p>
 
 <p>We design statistically principled methods, develop user-friendly software, and study the genetic basis of human diseases. 
 We currently focus on integrative analysis of genetics and functional genomics data.
@@ -31,7 +33,7 @@ Theoretical physics helps us to make progress in a wide range of fields, includi
 <div class="container">
 <div class="row">
 <center>
-<img src="/images/banner.jpg" width="100%"/><br/>
+<img src="http://localhost:4000/images/banner.jpg" width="100%"/><br/>
 Examples of Feynman diagrams. <br/>
 Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
 </center>

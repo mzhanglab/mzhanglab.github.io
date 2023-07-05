@@ -1,28 +1,25 @@
----
-title: "Home"
-layout: homelay
-sitemap: false
-permalink: /
----
+I"ä
+<h3 id="genetics-and-machine-learning">Genetics and Machine Learning</h3>
 
-### Genetics and Machine Learning 
+<p><strong>We are  looking for several PhD students and research interns</strong> <a href="http://localhost:4000/openings">(see openings)</a> <strong>!</strong></p>
 
-**We are looking for several PhD students and research interns** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
-
-We design statistically principled methods, develop user-friendly software, and study the genetic basis of human diseases. 
+<p>We design statistically principled methods, develop user-friendly software, and study the genetic basis of human diseases. 
 We currently focus on integrative analysis of genetics and functional genomics data.
-Topics of interest include:
+Topics of interest include:</p>
 
-- Identifying disease-critical cellular contexts through integrating GWAS and functional genomics. 
+<ul>
+  <li>
+    <p>Identifying disease-critical cellular contexts through integrating GWAS and functional genomics.</p>
+  </li>
+  <li>
+    <p>Understanding the genetic architecture of human diseases and the underlying evolutionary driving forces through analyzing biobank-scale genetics data.</p>
+  </li>
+  <li>
+    <p>Understanding the causal relationship between genes and disease through analyzing GWAS, eQTL, and perturbation data.</p>
+  </li>
+</ul>
 
-- Understanding the genetic architecture of human diseases and the underlying evolutionary driving forces through analyzing biobank-scale genetics data.
-
-- Understanding the causal relationship between genes and disease through analyzing GWAS, eQTL, and perturbation data. 
-
-We also develop general statistical and machine learning algorithms motivated by applications in genetics; topics include multiple hypotheses testing, multi-armed bandits, dimensionality reduction, empirical Bayes, and causal inference. 
-
-
-
+<p>We also develop general statistical and machine learning algorithms motivated by applications in genetics; topics include multiple hypotheses testing, multi-armed bandits, dimensionality reduction, empirical Bayes, and causal inference.</p>
 
 <!---
 Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
@@ -36,7 +33,7 @@ Theoretical physics helps us to make progress in a wide range of fields, includi
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
+<img src="http://localhost:4000/images/banner.jpg" width="100%"/><br/>
 Examples of Feynman diagrams. <br/>
 Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
 </center>
@@ -51,3 +48,4 @@ I received my undergraduate degree in physics from the Massachusetts Institute o
 After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
 After the war, I returned to academia, holding teaching and research positions at Cornell and now the California Institute of Technology.
 -->
+:ET

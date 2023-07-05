@@ -1,13 +1,13 @@
-I"Ë<h2 id="team">Team</h2>
+I"õ<h2 id="team">Team</h2>
 
-<p><strong>We are  looking for several PhD students and research interns</strong> <a href="/openings">(see openings)</a> <strong>!</strong></p>
+<p><strong>We are  looking for several PhD students and research interns</strong> <a href="http://localhost:4000/openings">(see openings)</a> <strong>!</strong></p>
 
 <h2 id="principal-investigator">Principal Investigator</h2>
 
 <div class="jumbotron">
   <div class="row">
     <div class="col-sm-2">
-      <p><img src="/images/mz_face.jpeg" width="100%" style="max-width:250px" /></p>
+      <p><img src="http://localhost:4000/images/mz_face.jpeg" width="100%" style="max-width:250px" /></p>
     </div>
     <div class="col-sm-9 col-xs-12">
       <h4>Dr. Martin Jinye Zhang</h4>
