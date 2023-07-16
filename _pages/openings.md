@@ -31,6 +31,24 @@ iframe {
 </style>
 
 ## Openings
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h4>Postdoctoral researcher</h4>
+
+The Zhang Lab is seeking a postdoctoral researcher. 
+The researcher will work with Dr. Martin Zhang on problems in statistical genetics and machine learning, involving algorithm design (occasionally proving theorems), software implementation, and studying problems in statistical and/or evolutionary genetics. 
+The researcher will have the flexibility to choose their projects or propose new projects, broadly in line with [the lab's research directions]({{ site.url }}{{ site.baseurl }}/research). 
+Dr. Zhang will provide hands-on guidance in conducting research and writing papers, as well as ample opportunities for collaboration (within and outside CMU) and presenting research works.  
+
+**Qualifications:** 
+- Successful research experience as demonstrated by publications in peer-reviewed journals and conferences.
+- Strong skills in algorithm design, mathematical modeling, and programming (e.g., Python or R).
+- (Preferred but not required) Experience in analyzing genetics and genomics data, such as GWAS and scRNA-seq
+
+**Apply:** please contact Dr. Martin Zhang via email with the title "Applying for a postdoctoral researcher position in Martin Zhang's Lab" and include your CV, a short introduction, and your research interests. 
+
+</div>
+</div>
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">

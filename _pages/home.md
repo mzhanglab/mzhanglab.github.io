@@ -7,7 +7,7 @@ permalink: /
 
 ### Genetics and Machine Learning 
 
-**We are looking for several PhD students and research interns** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+**We are looking for postdoctoral researchers, PhD students, and research interns** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 We design statistically principled methods, develop user-friendly software, and study the genetic basis of human diseases. 
 We currently focus on integrative analysis of genetics and functional genomics data.
