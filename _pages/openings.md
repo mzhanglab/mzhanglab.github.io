@@ -31,6 +31,7 @@ iframe {
 </style>
 
 ## Openings
+<!---
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 <h4>Postdoctoral researcher</h4>
@@ -49,6 +50,7 @@ Dr. Zhang will provide hands-on guidance in conducting research and writing pape
 
 </div>
 </div>
+--->
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -83,7 +85,10 @@ Dr. Zhang will provide hands-on guidance in conducting research and writing pape
 - Strong skills in algorithm design, mathematical modeling, and programming (e.g., Python or R).
 - (Preferred but not required) Experience in analyzing genetics and genomics data, such as GWAS and scRNA-seq
 
-**Apply:** please contact Dr. Martin Zhang via email with the title "Applying for a research intern position in Martin Zhang's Lab" and include your CV, a short introduction, and your research interests. This position is usually unfunded.
+**Apply:** please contact Dr. Martin Zhang via email with the title "Applying for a research intern position in Martin Zhang's Lab" and include your CV, a short introduction, and your research interests. 
+This position is usually unfunded. 
+CMU Master's students can register for research credits. 
+CMU Master's students, if not choosing to register for research credits, may occasionally be offered a paid position; the position comes with an hourly wage, is offered only sparingly and in a case-by-case fashion, and requires the student to be highly experienced.
 
 </div>
 </div>
