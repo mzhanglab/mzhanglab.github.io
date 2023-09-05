@@ -1,4 +1,4 @@
-I"�<style>
+I"a<style>
 img{
   border-radius: 10px;
 }
@@ -31,7 +31,7 @@ iframe {
 
 The Zhang Lab is seeking a postdoctoral researcher. 
 The researcher will work with Dr. Martin Zhang on problems in statistical genetics and machine learning, involving algorithm design (occasionally proving theorems), software implementation, and studying problems in statistical and/or evolutionary genetics. 
-The researcher will have the flexibility to choose their projects or propose new projects, broadly in line with [the lab's research directions](http://localhost:4000/research). 
+The researcher will have the flexibility to choose their projects or propose new projects, broadly in line with [the lab's research directions](/research). 
 Dr. Zhang will provide hands-on guidance in conducting research and writing papers, as well as ample opportunities for collaboration (within and outside CMU) and presenting research works.  
 
 **Qualifications:** 
@@ -51,7 +51,7 @@ Dr. Zhang will provide hands-on guidance in conducting research and writing pape
 
     <p>The Zhang Lab is seeking two highly-motivated PhD students. 
 The students will work with Dr. Martin Zhang on problems in statistical genetics and machine learning, involving algorithm design (occasionally proving theorems), software implementation, and studying problems in statistical and/or evolutionary genetics. 
-The students will have the flexibility to choose their projects or propose new projects, broadly in line with <a href="http://localhost:4000/research">the lab’s research directions</a>. 
+The students will have the flexibility to choose their projects or propose new projects, broadly in line with <a href="/research">the lab’s research directions</a>. 
 Dr. Zhang will provide hands-on guidance in conducting research and writing papers, as well as ample opportunities for collaboration (within and outside CMU) and presenting research works.</p>
 
     <p><strong>Qualifications:</strong></p>
@@ -72,7 +72,7 @@ Dr. Zhang will provide hands-on guidance in conducting research and writing pape
 
     <p>The Zhang lab welcomes research interns at all levels: graduate or undergraduate, within or outside CMU, and in-person or remote. 
 The students will work with Dr. Martin Zhang on problems in statistical genetics and machine learning. 
-The students will have the flexibility to choose their projects or propose new projects, broadly in line with <a href="http://localhost:4000/research">the lab’s research directions</a>. 
+The students will have the flexibility to choose their projects or propose new projects, broadly in line with <a href="/research">the lab’s research directions</a>. 
 The projects are expected to have a smaller scale and a short cycle (e.g., 3-6 months for a conference submission). 
 Dr. Zhang will provide hands-on guidance in conducting research and writing papers, as well as ample opportunities for collaboration (within and outside CMU) and presenting research works.</p>
 
@@ -84,7 +84,8 @@ Dr. Zhang will provide hands-on guidance in conducting research and writing pape
 
     <p><strong>Apply:</strong> please contact Dr. Martin Zhang via email with the title “Applying for a research intern position in Martin Zhang’s Lab” and include your CV, a short introduction, and your research interests. 
 This position is usually unfunded. 
-CMU master students can either register for research credits or, if highly-experienced and , be compensated at a standard hourly rate.</p>
+CMU Master’s students can register for research credits. 
+CMU Master’s students, if not choosing to register for research credits, may occasionally be offered a paid position; the position comes with an hourly wage, is offered only sparingly and in a case-by-case fashion, and requires the student to be highly experienced.</p>
 
   </div>
 </div>

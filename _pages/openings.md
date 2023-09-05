@@ -88,7 +88,7 @@ Dr. Zhang will provide hands-on guidance in conducting research and writing pape
 **Apply:** please contact Dr. Martin Zhang via email with the title "Applying for a research intern position in Martin Zhang's Lab" and include your CV, a short introduction, and your research interests. 
 This position is usually unfunded. 
 CMU Master's students can register for research credits. 
-CMU Master's students, if not choosing to register for research credits, may occasionally be offered a paid position; the position comes with an hourly wage, is offered only sparingly and in a case-by-case fashion, and requires the student to be highly experienced.
+CMU Master's students, when not registering for research credits, may be compensated with an hourly pay; the paid position is offered only sparingly and usually requires the student to be highly experienced.
 
 </div>
 </div>
