@@ -1,3 +1,51 @@
+- name: Alistair Turcan
+  photo: alistair.jpg
+  info: PhD student, started Jan 2024. Using genetics data for inferring causal and responsive relationships between cells, genes, and disease. 
+  # email: aturcan@andrew.cmu.edu
+  # website: https://website.com
+
+- name: Anatori Prieto 
+  photo: ana.jpg
+  info: PhD student, started Feb 2024. Leveraging omics data to better understand the biomolecular profile of heritable diseases.
+  # email: aturcan@andrew.cmu.edu
+  # website: https://website.com
+
+- name: Grace Du 
+  photo: grace.jpg
+  info: MSCB student, started Sep 2023. Estimating the directional effects of SNP-pairs at the gene level using biobank-scale genetics data.
+  # email: aturcan@andrew.cmu.edu
+  # website: https://website.com
+
+- name: Johnson Huang 
+  photo: johnson.jpg
+  info: MS student, started Sep 2023. scRNA-seq data clustering.
+  # email: aturcan@andrew.cmu.edu
+  # website: https://website.com
+
+- name: David Sun 
+  # photo: david.jpg
+  info: MS student, started Sep 2023.
+  # email: aturcan@andrew.cmu.edu
+  # website: https://website.com
+
+- name: Yuxin Lu
+  photo: yuxin.jpg
+  info: MSAS student, started Jan 2024. Causal relationship between genes and disease through analyzing GWAS, eQTL, and perturbation data.
+  # email: aturcan@andrew.cmu.edu
+  # website: https://website.com
+
+- name: Dongbo Sun
+  photo: dongbo.jpg
+  info: MSCB student, started Mar 2024. Using Deep learning and Large Language Models to explore expression levels of genes, and how it's affected by variants on genes.
+  # email: aturcan@andrew.cmu.edu
+  # website: https://website.com
+
+- name: Maxwell Soh
+  photo: maxwell.jpg
+  info: Undergraduate student, started Jan 2024. Developing an improved causal inference method for scRNA-seq data.
+  # email: aturcan@andrew.cmu.edu
+  # website: https://website.com
+
 # - name: Example student name
 #   photo: rock.jpg
 #   info: Postdoc, started Oct 2041

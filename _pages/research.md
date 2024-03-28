@@ -30,8 +30,9 @@ iframe {
 }
 </style>
 
-## Research
 
+
+## Research
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 <h4>Polygenic enrichment in disease-critical cellular contexts</h4>
@@ -42,6 +43,9 @@ Integrating GWAS and functional genomics (e.g., scRNA-seq) has been demonstrated
 However, most existing works cannot capture the heterogeneity of disease association within classical cell types or distinguish causal cellular contexts from correlated (tagging) contexts.  with similar molecular patterns. 
 We develop methods to capture the fine-grained diseases-associated cell populations and to tease apart the causal cellular contexts. 
 <a href="https://www.nature.com/articles/s41588-022-01167-z" target="_blank">Single-cell disease relevance score paper</a> (Zhang<sup>*</sup>, Hou<sup>*</sup> et al. 2022).
+Also see 
+<a href="https://www.biorxiv.org/content/10.1101/2024.02.05.579042v1" target="_blank">scDRS analysis of spatial transcriptomics</a> (Yasumizu et al. 2024),
+<a href="https://www.nature.com/articles/s41588-023-01577-7" target="_blank">immune cell states from single-cell multiome</a> (Gupta et al. 2023).
 
 **Data types:** GWAS (summary statistics); scRNA-seq; eQTL; single-cell eQTL; scATAC-seq; SHARE-seq; spatial transcriptomics. 
 </div>
@@ -57,6 +61,10 @@ Most existing works focus on the marginal distribution of SNP causal effect size
 First, we move beyond the marginal distribution and develop methods to examine the correlation of causal effect sizes of SNP pairs, which may arise due to interaction with natural selection. 
 Second, we investigate the genetic architecture involving both traits and molecular phenotypes, such as mediated trait heritability by gene expression. 
 We develop methods to assess the mediated heritability by gene expression or protein abundance and partition it across cell types. 
+<a href="https://www.medrxiv.org/content/10.1101/2023.12.04.23299391v1" target="_blank">LDSPEC SNP-pair effect correlation paper</a> (Zhang<sup>*</sup> et al. 2023).
+Also see
+<a href="https://www.nature.com/articles/s41588-023-01522-8" target="_blank">ATM comorbidity disease subtypes paper</a> (Jiang et al. 2023).
+
 
 **Data types:** GWAS (summary statistics or individual genotype, e.g., UK Biobank); functional annotations (e.g., <a href="https://www.nature.com/articles/ng.3954" target="_blank">baseline-LD</a>); eQTL (e.g., GTEx); single-cell eQTL; pQTL (e.g., UK Biobank).
 </div>
@@ -90,5 +98,15 @@ We develop general machine learning and data science algorithms motivated by app
 <a href="https://proceedings.mlr.press/v97/zhang19t.html" target="_blank">Adaptive Monte Carlo multiple testing paper</a> (Zhang et al. 2019). 
 <a href="https://www.nature.com/articles/s41467-018-04608-8" target="_blank">Contrastive principal component analysis paper</a> (Abid<sup>*</sup>, Zhang<sup>*</sup> et al. 2018).
 
+</div>
+</div>
+
+
+
+## Research grants
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h4>Our research is supported by the following grants</h4>
+- <a href="https://curcifoundation.org/research-grants/2024-research-grants/">The Curci Foundation Research Grant</a> (3/2024-1/2026; 500K) (<a href="https://www.cs.cmu.edu/news/2024/zhang-curci-grant">SCS news</a>)
 </div>
 </div>

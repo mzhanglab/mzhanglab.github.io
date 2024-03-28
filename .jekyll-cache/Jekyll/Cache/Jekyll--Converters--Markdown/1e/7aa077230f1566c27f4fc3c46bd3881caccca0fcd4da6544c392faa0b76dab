@@ -1,0 +1,100 @@
+I"Ï<style>
+img{
+  border-radius: 10px;
+}
+.col-md-3 {
+  margin-top:10px;
+  margin-bottom:10px;
+  padding:0px;
+  display:block;
+  overflow:hidden;
+  text-align:center;
+  display: table-cell;
+  background: white;
+  border-radius: 20px;
+  height: auto;
+}
+iframe {
+  margin:0;
+  padding:0;
+  width: 175px;
+  display: inline;
+  vertical-align: middle;
+}
+</style>
+
+<h2 id="research">Research</h2>
+<div class="jumbotron">
+  <div class="col-md-12 col-sm-12">
+    <h4>Polygenic enrichment in disease-critical cellular contexts</h4>
+
+    <p>Heritable human diseases and complex traits often manifest in a highly cell-type-specific manner across the body.
+Pinpointing these causal cell subpopulations are critical for functional follow-up and drug development. 
+Integrating GWAS and functional genomics (e.g., scRNA-seq) has been demonstrated to be an effective approach. 
+However, most existing works cannot capture the heterogeneity of disease association within classical cell types or distinguish causal cellular contexts from correlated (tagging) contexts.  with similar molecular patterns. 
+We develop methods to capture the fine-grained diseases-associated cell populations and to tease apart the causal cellular contexts. 
+<a href="https://www.nature.com/articles/s41588-022-01167-z" target="_blank">Single-cell disease relevance score paper</a> (Zhang<sup>*</sup>, Hou<sup>*</sup> et al. 2022).
+Also see 
+<a href="https://www.biorxiv.org/content/10.1101/2024.02.05.579042v1" target="_blank">scDRS analysis of spatial transcriptomics</a> (Yasumizu et al. 2024),
+<a href="https://www.nature.com/articles/s41588-023-01577-7" target="_blank">scDRS analysis of spatial transcriptomics</a> (Yasumizu et al. 2024),</p>
+
+    <p><strong>Data types:</strong> GWAS (summary statistics); scRNA-seq; eQTL; single-cell eQTL; scATAC-seq; SHARE-seq; spatial transcriptomics.</p>
+  </div>
+</div>
+
+<div class="jumbotron">
+  <div class="col-md-12 col-sm-12">
+    <h4>Genetic architecture of human diseases and complex traits</h4>
+
+    <p>Understanding the genetic architecture of diseases and complex traits, namely the distribution of causal SNP effects across the genome, is a fundamental task with profound implications. 
+For example, it can shed light on human evolutionary history and inform downstream tasks such as association testing, fine-mapping, polygenic risk prediction, and disease gene identification. 
+Most existing works focus on the marginal distribution of SNP causal effect sizes, and we expand this endeavor in several directions. 
+First, we move beyond the marginal distribution and develop methods to examine the correlation of causal effect sizes of SNP pairs, which may arise due to interaction with natural selection. 
+Second, we investigate the genetic architecture involving both traits and molecular phenotypes, such as mediated trait heritability by gene expression. 
+We develop methods to assess the mediated heritability by gene expression or protein abundance and partition it across cell types.</p>
+
+    <p><strong>Data types:</strong> GWAS (summary statistics or individual genotype, e.g., UK Biobank); functional annotations (e.g., <a href="https://www.nature.com/articles/ng.3954" target="_blank">baseline-LD</a>); eQTL (e.g., GTEx); single-cell eQTL; pQTL (e.g., UK Biobank).</p>
+  </div>
+</div>
+
+<div class="jumbotron">
+  <div class="col-md-12 col-sm-12">
+    <h4>Causal inference in genetics and genomics</h4>
+
+    <p>Causal inference is a powerful statistical technique that can uncover the true underlying causal relationship between variables. 
+However, its applications in genetics and genomics are often hindered by domain-specific structures such as a large number of variables, relatively smaller sample sizes, small effect sizes of genetic variants, complex model assumptions across molecular phenotypes, and different data collection methods. 
+Therefore, methods need to be developed that carefully model these aspects to produce powerful and robust estimates. 
+First, we develop integrative methods combining GWAS and molecular QTL data to estimate the causal relationship between genes/proteins and diseases. 
+Second, we develop methods to disentangle causal from tagging relationships in gene expression experiments, such as differential expression analysis in RNA-Seq or scRNA-seq.</p>
+
+    <p><strong>Data types:</strong> GWAS (summary statistics); eQTL (e.g., GTEx); single-cell eQTL; pQTL (e.g., UK Biobank); scRNA-seq; perturb-seq; massively parallel reporter assays (MPRAs).</p>
+
+  </div>
+</div>
+
+<div class="jumbotron">
+  <div class="col-md-12 col-sm-12">
+    <h4>Machine learning and data science</h4>
+
+    <p>We develop general machine learning and data science algorithms motivated by applications in genetics. 
+<a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/08857467641ad82f635023d530605b4c-Abstract-Conference.html" target="_blank">Fast random forest paper</a> (Tiwari et al. 2022). 
+<a href="https://proceedings.mlr.press/v151/ginart22a.html" target="_blank">Deployment monitoring for machine learning systems paper</a> (Ginart et al. 2022). 
+<a href="https://elifesciences.org/articles/62293" target="_blank">Single-cell aging score paper</a> (Zhang et al. 2021). 
+<a href="https://proceedings.neurips.cc/paper_files/paper/2020/hash/73b817090081cef1bca77232f4532c5d-Abstract.html" target="_blank">Fast k-medoid clustering paper</a> (Tiwari et al. 2020). 
+<a href="https://www.nature.com/articles/s41467-019-11247-0" target="_blank">Covariate-adaptive multiple hypothesis testing paper</a> (Zhang et al. 2019). 
+<a href="https://proceedings.mlr.press/v97/zhang19t.html" target="_blank">Adaptive Monte Carlo multiple testing paper</a> (Zhang et al. 2019). 
+<a href="https://www.nature.com/articles/s41467-018-04608-8" target="_blank">Contrastive principal component analysis paper</a> (Abid<sup>*</sup>, Zhang<sup>*</sup> et al. 2018).</p>
+
+  </div>
+</div>
+
+<h2 id="research-grants">Research grants</h2>
+<div class="jumbotron">
+  <div class="col-md-12 col-sm-12">
+    <h4>Our research is supported by the following grants</h4>
+    <ul>
+      <li><a href="https://curcifoundation.org/research-grants/2024-research-grants/">The Curci Foundation research grant</a> (3/2024-1/2026; 500K) (<a href="https://www.cs.cmu.edu/news/2024/zhang-curci-grant">SCS news</a>)</li>
+    </ul>
+  </div>
+</div>
+:ET

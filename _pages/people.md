@@ -105,9 +105,7 @@ permalink: /people/
 {% endif %}
 
 
-<!--
 ## Administrative Support
 
-<a href="exampleemail@gmail.com">Example staff</a> is helping us (and other groups) with administration.
--->
+<a href="ekunz@andrew.cmu.edu">Erin Driskill</a> is helping us (and other groups) with administration.
 
