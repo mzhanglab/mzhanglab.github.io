@@ -47,7 +47,9 @@ Dr. Zhang will support the researcher's application for a [Lane Fellow](https://
 - Strong skills in algorithm design, mathematical modeling, and programming (e.g., Python or R).
 - (Preferred but not required) Experience in analyzing genetics and genomics data, such as GWAS and scRNA-seq
 
-**Apply:** please contact Dr. Martin Zhang via email with the title "Applying for a postdoctoral researcher position in Martin Zhang's Lab" and include your CV, a short introduction, and your research interests. 
+**Apply:** please apply through [Interfolio](https://apply.interfolio.com/145466).
+
+<!--please contact Dr. Martin Zhang via email with the title "Applying for a postdoctoral researcher position in Martin Zhang's Lab" and include your CV, a short introduction, and your research interests. -->
 
 </div>
 </div>
