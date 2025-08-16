@@ -31,40 +31,25 @@ iframe {
 </style>
 
 ## Openings
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-<h4>Postdoctoral researcher</h4>
 
-The Zhang Lab is seeking one postdoctoral researcher. 
-The researcher will work with Dr. Martin Zhang on problems in statistical genetics and machine learning, involving algorithm design, software implementation, and studying problems in statistical and/or evolutionary genetics. 
-The researcher will have the flexibility to choose their projects or propose new projects, broadly in line with [the lab's research directions]({{ site.url }}{{ site.baseurl }}/research). 
-One research focus would be to use SNP-to-gene links (such as eQTLs or enhancer-gene links from single-cell multiome) to identify GWAS genes.
-Dr. Zhang will provide hands-on guidance in conducting research and writing papers, as well as ample opportunities for collaboration (within and outside CMU) and presenting research works. 
-Dr. Zhang will support the researcher's application for a [Lane Fellow](https://cbd.cmu.edu/join-us/lane-fellow.html), a prestigious postdoctoral fellowship program in CMU computational biology.
+8/15/2025: We are particularly seeking students with skills and interests in the following projects, though students with other interests are also welcome to apply:
+(1) leveraging graph neural networks to integrate GWAS and genomic knowledge graphs for identifying causal links between variants, cis-regulatory elements, genes, and cell types;
+(2) conducting theoretical analyses, including proofs for upper and lower bounds, for bulk RNA-Seq deconvolution;
+(3) improving the calibration of TWAS fine-mapping.
 
-**Qualifications:** 
-- Successful research experience as demonstrated by publications in peer-reviewed journals and conferences.
-- Strong skills in algorithm design, mathematical modeling, and programming (e.g., Python or R).
-- (Preferred but not required) Experience in analyzing genetics and genomics data, such as GWAS and scRNA-seq
-
-**Apply:** please apply through [Interfolio](https://apply.interfolio.com/145466).
-
-<!--please contact Dr. Martin Zhang via email with the title "Applying for a postdoctoral researcher position in Martin Zhang's Lab" and include your CV, a short introduction, and your research interests. -->
-
-</div>
-</div>
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 <h4>PhD students</h4>
 
 The Zhang Lab is seeking 1-2 highly-motivated PhD students. 
-The students will work with Dr. Martin Zhang on problems in statistical genetics and machine learning, involving algorithm design (occasionally proving theorems), software implementation, and studying problems in statistical and/or evolutionary genetics. 
+The students will work with Dr. Martin Zhang on problems in statistical genetics and machine learning, involving algorithm design, software implementation, and studying problems in statistical genetics. 
 The students will have the flexibility to choose their projects or propose new projects, broadly in line with [the lab's research directions]({{ site.url }}{{ site.baseurl }}/research). 
 Dr. Zhang will provide hands-on guidance in conducting research and writing papers, as well as ample opportunities for collaboration (within and outside CMU) and presenting research works.  
 
 **Qualifications:** 
 - Admitted to a CMU PhD program.
+- Undergraduate degree in a quantitative field such as computer science, statistics, or bioinformatics.
 - Strong skills in algorithm design, mathematical modeling, and programming (e.g., Python or R).
 - (Preferred but not required) Experience in analyzing genetics and genomics data, such as GWAS and scRNA-seq
 
@@ -94,3 +79,32 @@ CMU Master's students, when not registering for research credits, may be compens
 
 </div>
 </div>
+
+
+
+
+
+<!--
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h4>Postdoctoral researcher</h4>
+
+The Zhang Lab is seeking one postdoctoral researcher. 
+The researcher will work with Dr. Martin Zhang on problems in statistical genetics and machine learning, involving algorithm design, software implementation, and studying problems in statistical and/or evolutionary genetics. 
+The researcher will have the flexibility to choose their projects or propose new projects, broadly in line with [the lab's research directions]({{ site.url }}{{ site.baseurl }}/research). 
+One research focus would be to use SNP-to-gene links (such as eQTLs or enhancer-gene links from single-cell multiome) to identify GWAS genes.
+Dr. Zhang will provide hands-on guidance in conducting research and writing papers, as well as ample opportunities for collaboration (within and outside CMU) and presenting research works. 
+Dr. Zhang will support the researcher's application for a [Lane Fellow](https://cbd.cmu.edu/join-us/lane-fellow.html), a prestigious postdoctoral fellowship program in CMU computational biology.
+
+**Qualifications:** 
+- Successful research experience as demonstrated by publications in peer-reviewed journals and conferences.
+- Strong skills in algorithm design, mathematical modeling, and programming (e.g., Python or R).
+- (Preferred but not required) Experience in analyzing genetics and genomics data, such as GWAS and scRNA-seq
+
+**Apply:** please apply through [Interfolio](https://apply.interfolio.com/145466).
+
+please contact Dr. Martin Zhang via email with the title "Applying for a postdoctoral researcher position in Martin Zhang's Lab" and include your CV, a short introduction, and your research interests. 
+
+</div>
+</div>
+-->

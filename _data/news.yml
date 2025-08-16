@@ -1,3 +1,12 @@
+- date: 8/2/2025
+  headline: <a href="https://www.biorxiv.org/content/10.1101/2025.07.31.667984v1"> DALE-Eval preprint </a> on comprehensive benchmarking of cell type-specific expression deconvolution method. 
+
+- date: 1/2/2025
+  headline: <a href="https://www.nature.com/articles/s41588-024-01994-2"> TGFM </a> for fine-mapping causal tissues and genes at disease-associated loci published at Nature Genetics. 
+
+- date: 12/5/2024
+  headline: <a href="https://www.medrxiv.org/content/10.1101/2024.12.03.24318375v1"> KGWAS preprint </a> on integrating large-scale genomic knowledge graph to improve small-cohort GWAS. (<a href="https://www.cmu.edu/news/stories/archives/2025/august/finding-answers-faster-ai-method-brings-hope-to-rare-disease-research">SCS news</a>)
+
 - date: 5/2/2024
   headline: One <a href="https://icml.cc/"> ICML </a> paper on <a href="https://arxiv.org/abs/2212.07551">efficient maximum inner product search</a>.
 
@@ -13,5 +22,3 @@
 - date: 6/28/2023
   headline: I will join the <a href="https://cbd.cmu.edu/people/index.html">CMU Computational Biology Department</a> as an assistant professor in August 2023.
 
-# - date: 1 January, 1901
-#   headline: "Example news"

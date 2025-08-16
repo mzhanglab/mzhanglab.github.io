@@ -1,7 +1,32 @@
+
+
 - name: Mo Tiwari
-  info: 2019-24, PhD from Stanford CS, currently at OpenAI, 
-# <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/08857467641ad82f635023d530605b4c-Abstract-Conference.html" target="_blank">Tiwari et al, 2022</a>, <a href="https://proceedings.neurips.cc/paper_files/paper/2020/hash/73b817090081cef1bca77232f4532c5d-Abstract.html" target="_blank">Tiwari et al. 2020</a>.
+  info: 2019-24, PhD from Stanford CS (2023, OpenAI)
   website: https://motiwari.com/
+
+- name: Dongbo Sun
+  info: 2023-25, MS from CMU MSCB (2025, PhD student, UCI)
+  website: https://www.linkedin.com/in/dongbosun/
+
+- name: Yuxin Lu
+  info: 2023-25, MS from CMU MSAS (2025, PhD student, CMU CPCB)
+  website: https://www.linkedin.com/in/yuxin-lu-23a58b202/
+
+- name: David Sun
+  info: 2023-25, MS from CMU (2025, TSMC)
+  website: https://github.com/dasvision0212
+
+- name: Johnson Huang
+  info: 2023-25, MS from CMU QBB (2025, Bioinformatician, UMass)
+  website: https://www.linkedin.com/in/yen-hsiang-huang/
+
+- name: Grace Du
+  info: 2023-25, MS from CMU MSCB (2025, Bioinformatics Associate, Zymo Research)
+  website: https://www.linkedin.com/in/grace-du-61801cdc/?trk=people-guest_people_search-card
+
+- name: Maxwell Soh
+  info: 2023-25, BS from CMU CS and CompBio (2025, PhD student, Princeton)
+  website: https://www.linkedin.com/in/maxwell-soh/
 
 # - name: Example Alumni Name
 #  photo: rock.jpg

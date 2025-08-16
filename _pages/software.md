@@ -39,6 +39,28 @@ iframe {
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
+<h4><b> KGWAS <a href="https://github.com/snap-stanford/KGWAS" target="_blank"><button class="btn btn-info btn-sm">GIT</button></a> </b></h4>
+
+KGWAS is a novel geometric deep learning method that leverages a massive functional knowledge graph across variants and genes to improve detection power in small-cohort GWASs, as described in our paper “Small-cohort GWAS discovery with AI over massive functional genomics knowledge graph” (<a href="https://www.medrxiv.org/content/10.1101/2024.12.03.24318375v1" target="_blank">Huang et al. 2024</a>).
+
+</div>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-12 col-sm-12">
+<h4><b> LDSPEC <a href="https://github.com/martinjzhang/LDSPEC" target="_blank"><button class="btn btn-info btn-sm">GIT</button></a> </b></h4>
+
+LDSPEC is a method for estimating the correlation of causal disease effect sizes for pairs of nearby SNPs, depending on their functional annotations, as described in our paper “Pervasive correlations between causal disease effects of proximal SNPs vary with functional annotations and implicate stabilizing selection” (<a href="https://www.medrxiv.org/content/10.1101/2023.12.04.23299391v1" target="_blank">Zhang et al. 2023</a>).
+
+</div>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-12 col-sm-12">
 <h4><b> scDRS <a href="https://github.com/martinjzhang/scDRS" target="_blank"><button class="btn btn-info btn-sm">GIT</button></a> </b></h4>
 
 scDRS is a method that links scRNA-seq with polygenic risk of disease at individual cell resolution, as described in our paper “Polygenic enrichment distinguishes disease associations of individual cells in single-cell RNA-seq data” (<a href="https://www.nature.com/articles/s41588-022-01167-z" target="_blank">Zhang<sup>*</sup>, Hou<sup>*</sup> et al. 2022</a>).
