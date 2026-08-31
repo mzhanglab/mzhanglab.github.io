@@ -1,5 +1,3 @@
-
-
 - name: Mo Tiwari
   info: 2019-24, PhD from Stanford CS (2023, OpenAI)
   website: https://motiwari.com/
@@ -24,9 +22,14 @@
   info: 2023-25, MS from CMU MSCB (2025, Bioinformatics Associate, Zymo Research)
   website: https://www.linkedin.com/in/grace-du-61801cdc/?trk=people-guest_people_search-card
 
+- name: Tanush Paradeshi
+  info: Summer 2025, BS from CMU CS and Stats
+  website: https://www.tanushparadeshi.com/
+
 - name: Maxwell Soh
   info: 2023-25, BS from CMU CS and CompBio (2025, PhD student, Princeton)
   website: https://www.linkedin.com/in/maxwell-soh/
+
 
 # - name: Example Alumni Name
 #  photo: rock.jpg

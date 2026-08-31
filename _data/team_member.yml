@@ -2,6 +2,10 @@
   photo: alistair.jpg
   info: PhD student, CPCB, started Jan 2024. 
 
+- name: Jiwon Lee
+  photo: jiwon.jpg
+  info: PhD student, CPCB, started Jan 2024, co-advised with Prof. Anne-Ruxandra Carvunis.
+
 - name: Anatori Prieto 
   photo: ana.jpg
   info: PhD student, Biological Sciences, started Feb 2024. 
@@ -10,15 +14,31 @@
   photo: boshen.jpeg
   info: PhD student, CPCB, started Sep 2025. 
 
+- name: Jeongho Chae 
+  photo: jeongho.jpg
+  info: PhD student, CPCB, started Sep 2026. 
+
+- name: Eric Chen 
+  photo: eric.jpg
+  info: PhD student, Statistics & Data Science, started Sep 2026, co-advised with Prof. Kathryn Roeder.
+
+- name: Kate Zhang 
+  photo: kate.jpg
+  info: MSCB Research Intern, started Feb 2026. 
+
 - name: Ray Liu 
   photo: ray.jpeg
   info: Research Assistant, started Apr 2025. 
 
-- name: Tanush Paradeshi
-  photo: tanush.jpeg
-  info: Undergraduate student, Statistics and Machine Learning, started Mar 2025. 
+- name: Nicole Sorensen 
+  photo: nicole.jpg
+  info: Research Assistant, started Sep 2025. 
 
 
+
+#- name: Tanush Paradeshi
+#  photo: tanush.jpeg
+#  info: Undergraduate student, Statistics and Machine Learning, started Mar 2025. 
 
 # - name: Grace Du 
 #  photo: grace.jpg

@@ -1,0 +1,170 @@
+I"°<h2 id="team">Team</h2>
+
+<p><strong>We are  looking for several PhD students and research interns</strong> <a href="http://localhost:4000/openings">(see openings)</a> <strong>!</strong></p>
+
+<h2 id="principal-investigator">Principal Investigator</h2>
+
+<div class="jumbotron">
+  <div class="row">
+    <div class="col-sm-2">
+      <p><img src="http://localhost:4000/images/mz_face.jpeg" width="100%" style="max-width:250px" /></p>
+    </div>
+    <div class="col-sm-9 col-xs-12">
+      <h4>Dr. Martin Jinye Zhang</h4>
+      <p><i>Assistant Professor, Ray and Stephanie Lane Computational Biology Department, School of Computer Science, Carnegie Mellon University</i><br /></p>
+
+      <p><a href="mailto:martinzh@andrew.cmu.edu" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> 
+ <a href="https://scholar.google.com/citations?user=zjr6n-QAAAAJ&amp;hl=en" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> 
+ <a href="https://github.com/martinjzhang" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> 
+ <a href="https://twitter.com/martinjzhang" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a> 
+ <a href="cv/CV_083026.pdf" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a></p>
+
+      <ul style="overflow: hidden">
+<li> (2019) Ph.D., Electrical Engineering, Stanford University </li>
+<li> (2014) B.Eng., Electrical Engineering, Tsinghua University </li>
+</ul>
+
+    </div>
+  </div>
+</div>
+
+<h2 id="current-team-members">Current Team Members</h2>
+
+<div class="jumbotron">
+
+  <div class="row">
+
+    <div class="col-sm-2">
+      <p><img src="http://localhost:4000/images/alistair.jpg" width="100%" style="max-width:250px" /></p>
+    </div>
+    <div class="col-sm-4 col-xs-12">
+      <h4>Alistair Turcan</h4>
+      <p><i>PhD student, CPCB, started Jan 2024.<br /></i></p>
+
+    </div>
+    <!-- </div> -->
+
+    <div class="col-sm-2">
+      <p><img src="http://localhost:4000/images/ana.jpg" width="100%" style="max-width:250px" /></p>
+    </div>
+    <div class="col-sm-4 col-xs-12">
+      <h4>Anatori Prieto</h4>
+      <p><i>PhD student, Biological Sciences, started Feb 2024.<br /></i></p>
+
+    </div>
+    <!-- </div> -->
+
+  </div>
+
+  <div class="row">
+
+    <div class="col-sm-2">
+      <p><img src="http://localhost:4000/images/boshen.jpeg" width="100%" style="max-width:250px" /></p>
+    </div>
+    <div class="col-sm-4 col-xs-12">
+      <h4>Boshen Yan</h4>
+      <p><i>PhD student, CPCB, started Sep 2025.<br /></i></p>
+
+    </div>
+    <!-- </div> -->
+
+    <div class="col-sm-2">
+      <p><img src="http://localhost:4000/images/jeongho.jpeg" width="100%" style="max-width:250px" /></p>
+    </div>
+    <div class="col-sm-4 col-xs-12">
+      <h4>Jeongho Chae</h4>
+      <p><i>PhD student, CPCB, started Sep 2026.<br /></i></p>
+
+    </div>
+    <!-- </div> -->
+
+  </div>
+
+  <div class="row">
+
+    <div class="col-sm-2">
+      <p><img src="http://localhost:4000/images/eric.jpeg" width="100%" style="max-width:250px" /></p>
+    </div>
+    <div class="col-sm-4 col-xs-12">
+      <h4>Eric Chen</h4>
+      <p><i>PhD student, Statistics &amp; Data Science, started Sep 2026.<br /></i></p>
+
+    </div>
+    <!-- </div> -->
+
+    <div class="col-sm-2">
+      <p><img src="http://localhost:4000/images/kate.jpeg" width="100%" style="max-width:250px" /></p>
+    </div>
+    <div class="col-sm-4 col-xs-12">
+      <h4>Kate Zhang</h4>
+      <p><i>MSCB Research Intern, started Apr 2025.<br /></i></p>
+
+    </div>
+    <!-- </div> -->
+
+  </div>
+
+  <div class="row">
+
+    <div class="col-sm-2">
+      <p><img src="http://localhost:4000/images/ray.jpeg" width="100%" style="max-width:250px" /></p>
+    </div>
+    <div class="col-sm-4 col-xs-12">
+      <h4>Ray Liu</h4>
+      <p><i>Research Assistant, started Apr 2025.<br /></i></p>
+
+    </div>
+    <!-- </div> -->
+
+    <div class="col-sm-2">
+      <p><img src="http://localhost:4000/images/ray.jpeg" width="100%" style="max-width:250px" /></p>
+    </div>
+    <div class="col-sm-4 col-xs-12">
+      <h4>Ray Liu</h4>
+      <p><i>Undergraduate student, Statistics and Machine Learning, started Mar 2025.<br /></i></p>
+
+    </div>
+    <!-- </div> -->
+
+  </div>
+
+</div>
+
+<h2 id="alumni">Alumni</h2>
+
+<div class="jumbotron">
+
+  <ul>
+    <li>
+      <p><a href="https://motiwari.com/"> Mo Tiwari </a> <code>&nbsp;</code> 2019-24, PhD from Stanford CS (2023, OpenAI)</p>
+    </li>
+    <li>
+      <p><a href="https://www.linkedin.com/in/dongbosun/"> Dongbo Sun </a> <code>&nbsp;</code> 2023-25, MS from CMU MSCB (2025, PhD student, UCI)</p>
+    </li>
+    <li>
+      <p><a href="https://www.linkedin.com/in/yuxin-lu-23a58b202/"> Yuxin Lu </a> <code>&nbsp;</code> 2023-25, MS from CMU MSAS (2025, PhD student, CMU CPCB)</p>
+    </li>
+    <li>
+      <p><a href="https://github.com/dasvision0212"> David Sun </a> <code>&nbsp;</code> 2023-25, MS from CMU (2025, TSMC)</p>
+    </li>
+    <li>
+      <p><a href="https://www.linkedin.com/in/yen-hsiang-huang/"> Johnson Huang </a> <code>&nbsp;</code> 2023-25, MS from CMU QBB (2025, Bioinformatician, UMass)</p>
+    </li>
+    <li>
+      <p><a href="https://www.linkedin.com/in/grace-du-61801cdc/?trk=people-guest_people_search-card"> Grace Du </a> <code>&nbsp;</code> 2023-25, MS from CMU MSCB (2025, Bioinformatics Associate, Zymo Research)</p>
+    </li>
+    <li>
+      <p><a href="https://www.tanushparadeshi.com/"> Tanush Paradeshi </a> <code>&nbsp;</code> Summer 2025, BS from CMU CS and Stats</p>
+    </li>
+    <li>
+      <p><a href="https://www.linkedin.com/in/maxwell-soh/"> Maxwell Soh </a> <code>&nbsp;</code> 2023-25, BS from CMU CS and CompBio (2025, PhD student, Princeton)</p>
+    </li>
+  </ul>
+
+</div>
+
+<h2 id="administrative-support">Administrative Support</h2>
+
+<p><a href="ekunz@andrew.cmu.edu">Erin Driskill</a> is helping us (and other groups) with administration.</p>
+
+:ET

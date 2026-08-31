@@ -39,6 +39,30 @@ iframe {
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
+<h4><b> scDRS-FM <a href="https://github.com/Alistair-Turcan/scDRS-FM" target="_blank"><button class="btn btn-info btn-sm">GIT</button></a> </b></h4>
+
+scDRS-FM is a method that links scRNA-seq with polygenic risk of disease to fine-map disease associations across individual cells in the scRNA-seq data, as described in our paper “Conditional polygenic enrichment distinguishes causal from tagging disease-critical cell populations in single-cell RNA-seq” (<a href="https://www.medrxiv.org/content/10.64898/2026.08.20.26360914v1" target="_blank">Turcan et al. 2026b</a>).
+
+</div>
+</div>
+</div>
+
+
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-12 col-sm-12">
+<h4><b> TusoAI <a href="https://github.com/Alistair-Turcan/TusoAI" target="_blank"><button class="btn btn-info btn-sm">GIT</button></a> </b></h4>
+
+TusoAI is an agentic system for autonomous method development, catered towards computational biology but applicable to various fields, as described in our paper “TusoAI: Agentic Optimization for Scientific Methods” (<a href="https://proceedings.iclr.cc/paper_files/paper/2026/hash/522cc00c26345fa54815ed6262f13a63-Abstract-Conference.html" target="_blank">Turcan et al. 2026a</a>).
+
+</div>
+</div>
+</div>
+
+
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-12 col-sm-12">
 <h4><b> KGWAS <a href="https://github.com/snap-stanford/KGWAS" target="_blank"><button class="btn btn-info btn-sm">GIT</button></a> </b></h4>
 
 KGWAS is a novel geometric deep learning method that leverages a massive functional knowledge graph across variants and genes to improve detection power in small-cohort GWASs, as described in our paper “Small-cohort GWAS discovery with AI over massive functional genomics knowledge graph” (<a href="https://www.medrxiv.org/content/10.1101/2024.12.03.24318375v1" target="_blank">Huang et al. 2024</a>).
@@ -46,6 +70,7 @@ KGWAS is a novel geometric deep learning method that leverages a massive functio
 </div>
 </div>
 </div>
+
 
 <div class="jumbotron">
 <div class="row align-items-end">
