@@ -66,9 +66,9 @@ permalink: /about/
 
 Dr. Martin Zhang is an assistant professor of [Computational Biology](https://cbd.cmu.edu/) in the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). 
 Before starting his lab at CMU, he worked with Dr. Alkes Price on statistical genetics at Harvard School of Public Health, where he developed [scDRS](https://github.com/martinjzhang/scDRS), a method that integrates GWAS and scRNA-seq to identify individual disease-associated cells. 
-He also studied the genetic architecture of human diseases focusing on the interaction of SNP pairs driven by natural selection. 
+He also studied the genetic architecture of human diseases focusing on the [interaction of SNP pairs driven by natural selection](https://www.nature.com/articles/s41588-026-02712-w). 
 Prior to postdoc, he conducted graduate research with Dr. David Tse and Dr. James Zou on machine learning and computational biology at Stanford. His PhD works span a wide range of topics from theory to applications, including integrative dimensionality reduction, covariate-adaptive multiple hypothesis testing, algorithm acceleration via multi-armed bandits, single-cell RNA-seq experiment design, and analyzing single-cell RNA-seq data sets.
-His research is supported by <a href="https://curcifoundation.org/research-grants/2024-research-grants/">the Curci Foundation Research Grant</a>. 
+His research is supported by a [Supporting Talented Early Career Researchers in Genomics](https://reporter.nih.gov/search/MxGm1-7sq0-NS1AlfFy4Qg/project-details/11293784) R01 grant (2026-30), a Jones Interdisciplinary Seed FundSeed Fund (2026-27), and <a href="https://curcifoundation.org/research-grants/2024-research-grants/">the Curci Foundation Research Grant</a> (2024-26). 
 
 
 {% if site.data.grants %}

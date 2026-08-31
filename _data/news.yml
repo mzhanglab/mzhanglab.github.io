@@ -1,3 +1,16 @@
+
+- date: 8/23/2026
+  headline: <a href="https://www.medrxiv.org/content/10.64898/2026.08.20.26360914v1"> Preprint</a> "Conditional polygenic enrichment distinguishes causal from tagging disease-critical cell populations in single-cell RNA-seq". 
+
+- date: 8/13/2026
+  headline: <a href="https://www.nature.com/articles/s41588-026-02712-w"> Nature Genetics publication </a> "Correlations between causal effect sizes of proximal SNPs vary with functional annotations and implicate stabilizing selection"
+
+- date: 7/21/2026
+  headline: <a href="https://www.ashg.org/meetings/2026meeting/">ASHG 2026 Reviewers' Choice Abstract (10%)</a> "TusoAI-CB automatic end-to-end optimization of computational biology methods with agentic AI"
+
+- date: 6/1/2026
+  headline: <a href="https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-25-009.html"> R01 Supporting Talented Early Career Researchers in Genomics</a> grant for <a href="https://reporter.nih.gov/search/MxGm1-7sq0-NS1AlfFy4Qg/project-details/11293784">Fine-mapping GWAS disease mechanisms via multi-modal genomics and refined computational modeling</a>. Thank you, NHGRI!
+
 - date: 8/2/2025
   headline: <a href="https://www.biorxiv.org/content/10.1101/2025.07.31.667984v1"> DALE-Eval preprint </a> on comprehensive benchmarking of cell type-specific expression deconvolution method. 
 
