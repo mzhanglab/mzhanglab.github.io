@@ -7,23 +7,21 @@ permalink: /
 
 ### Genetics and Machine Learning 
 
-**We are looking for PhD students and research interns** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+**We are looking for postdocs, PhD students, and research interns** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
-Last updated: 8/30/2026
+Last updated: 10/9/2026
 
 We design statistically principled methods, develop user-friendly software, and study the genetic basis of human diseases. 
 We currently focus on integrative analysis of genetics and functional genomics data.
 Topics of interest include:
 
-- Identifying disease-critical cellular contexts through integrating GWAS with scRNA-seq, scATAC-seq, and spatial data (See [Turcan et al. 2026 *medRxiv*](https://www.medrxiv.org/content/10.64898/2026.08.20.26360914v1), [Zhang et al. 2022 *Nat Genet*](https://www.nature.com/articles/s41588-022-01167-z), [Yasumizu et al. 2024 *Cell Rep*](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01028-3?uuid=uuid%3Af1a6a04c-c5d8-4152-b62d-0ecf03a86927)).
+- Mapping disease-critical cellular contexts through integrating GWAS with functional genomics, including scRNA-seq ([Turcan 2026 *medRxiv*](https://www.medrxiv.org/content/10.64898/2026.08.20.26360914v1), [Zhang\*,Hou\* 2022 *Nat Genet*](https://www.nature.com/articles/s41588-022-01167-z)), scATAC-seq, and spatial transcriptomics ([Yasumizu 2024 *Cell Rep*](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01028-3?uuid=uuid%3Af1a6a04c-c5d8-4152-b62d-0ecf03a86927)).
 
-- Identifying genes and cell types at GWAS loci through integrating regulatory functional data (See [Strober et al. 2025 *Nat Genet*](https://www.nature.com/articles/s41588-024-01994-2)); understanding disease-critical cell states and genes by analyzing case-control scRNA-seq data with causal inference.
+- Resolving target genes and cell types at GWAS loci through integrating regulatory functional data, including building graph foundation models ([Huang 2024 in revision at *Nat Genet*](https://www.medrxiv.org/content/10.1101/2024.12.03.24318375v1)), TWAS fine-mapping ([Strober 2025 *Nat Genet*](https://www.nature.com/articles/s41588-024-01994-2)), and analyzing case-control scRNA-seq data with causal inference.
 
-- Graph foundation models for jointly modeling variants, cis-regulatory elements, genes, and cell types for disease (See [Huang et al. 2024 in revision at *Nat Genet*](https://www.medrxiv.org/content/10.1101/2024.12.03.24318375v1)). 
+- Understanding the genetic architecture of human diseases and the underlying evolutionary driving forces through analyzing biobank-scale genetics data and functional data ([Zhang 2026 *Nat Genet*](https://www.nature.com/articles/s41588-026-02712-w)).
 
-- Understanding the genetic architecture of human diseases and the underlying evolutionary driving forces through analyzing biobank-scale genetics data and functional data (See [Zhang et al. 2023 in revision at *Nat Genet*](https://pubmed.ncbi.nlm.nih.gov/38106023/)).
-
-- LLMs as agents for genetic modeling and causal discovery (See [Turcan et al. 2026 *ICLR*](https://iclr.cc/virtual/2026/poster/10011945)).
+- Building multi-agent systems for automatic computational biology research (See [Turcan et al. 2026 *ICLR*](https://iclr.cc/virtual/2026/poster/10011945)).
 
 
 <!---
@@ -31,8 +29,6 @@ Topics of interest include:
 
 - Foundation models for DNA sequences and single cells.
 -->
-
-
 
 We also develop general statistical and machine learning algorithms motivated by applications in genetics; topics include multiple hypotheses testing, multi-armed bandits, dimensionality reduction, empirical Bayes, and causal inference. 
 
